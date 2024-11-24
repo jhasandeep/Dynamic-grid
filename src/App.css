@@ -17,8 +17,8 @@
 }
 
 .cell {
-  width: 15px;
-  height: 15px;
+  width: 30px;
+  height: 30px;
   border: 1px solid #333;
   display: flex;
   justify-content: center;
